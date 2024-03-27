@@ -48,17 +48,15 @@ nav ul li a:hover{
     color: #FFAF13;
     
 }
-.dropdown{
-    background-color: #fff;
+.dropdown {
+    background-color: #fbfbfb;
     display: flex;
     flex-direction: column;
     height: 80px;
     z-index: 100;
-    /* padding-top: 10px;  */
+    padding-top: 10px;
     position: absolute;
     display: none;
-    margin-top: 1.1rem;
-    border: 1px solid #ccc;
 }
 
 .dropdown li{
